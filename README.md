@@ -68,7 +68,7 @@ a repo sharing Bayesian Neural Network recent papers
 [1] [Online Structured Laplace Approximations For Overcoming Catastrophic Forgetting](https://arxiv.org/abs/1805.07810), arXiv 2018
 
 [2] [A Scalable Laplace Approximation for Neural Networks](https://openreview.net/forum?id=Skdvd2xAZ), ICLR 2018
-## Expectation Propgation
+## Expectation Propgation (EP)
 [1] [Assumed Density Filtering Methods for Learning Bayesian Neural Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12391/11777), AAAi 2016
 
 [2] [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/abs/1502.05336), ICML 2016
@@ -102,6 +102,18 @@ a repo sharing Bayesian Neural Network recent papers
 
 [3] [Accelerated First-order Methods on the Wasserstein Space for Bayesian Inference](https://arxiv.org/abs/1807.01750), arXiv 2018
 # Applications
+## Adversarial Defense
+[1] [Understanding Measures of Uncertainty for Adversarial Example Detection](https://arxiv.org/abs/1803.08533), UAI 2018
+
+[2] [Sufficient Conditions for Robustness to Adversarial Examples: a Theoretical and Empirical Study with Bayesian Neural Networks](https://openreview.net/forum?id=B1eZRiC9YX), ICLR 2019
+
+[3] [Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network](https://openreview.net/forum?id=rk4Qso0cKm), ICLR 2019
+## Bayesian Optmization
+[1] [Learning Curve Prediction with Bayesian Neural Networks](https://openreview.net/forum?id=S11KBYclx), ICLR 2017
+
+[2] [Bayesian Optimization with Robust Bayesian Neural Networks](https://papers.nips.cc/paper/6117-bayesian-optimization-with-robust-bayesian-neural-networks), NIPS 2016
+## Hardware Acceleration
+[1] [VIBNN Hardware Acceleration of Bayesian Neural Networks](https://arxiv.org/abs/1802.00822), ASPLOS 2018
 ## Regression
 [1] [Applying SVGD to Bayesian Neural Networks for Cyclical Time-Series Prediction and Inference](https://arxiv.org/abs/1901.05906), NIPS 2018
 
@@ -110,16 +122,10 @@ a repo sharing Bayesian Neural Network recent papers
 [3] [Accurate Uncertainties for Deep Learning Using Calibrated Regression](https://arxiv.org/abs/1807.00263), ICML 2018
 
 [4] [Personalizing Gesture Recognition Using Hierarchical Bayesian Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Joshi_Personalizing_Gesture_Recognition_CVPR_2017_paper.pdf), CVPR 2017
-## Hardware Acceleration
-[1] [VIBNN Hardware Acceleration of Bayesian Neural Networks](https://arxiv.org/abs/1802.00822), ASPLOS 2018
+
 ## Implicit Multivariate Prior 
 [1] [Variational Implicit Processes](https://arxiv.org/abs/1806.02390), NIPS 2018
-## Adversarial Defense
-[1] [Understanding Measures of Uncertainty for Adversarial Example Detection](https://arxiv.org/abs/1803.08533), UAI 2018
 
-[2] [Sufficient Conditions for Robustness to Adversarial Examples: a Theoretical and Empirical Study with Bayesian Neural Networks](https://openreview.net/forum?id=B1eZRiC9YX), ICLR 2019
-
-[3] [Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network](https://openreview.net/forum?id=rk4Qso0cKm), ICLR 2019
 ## Classification
 [1] [Uncertainty quantification using Bayesian neural networks in classification: Application to ischemic stroke lesion segmentation](https://openreview.net/forum?id=Sk_P2Q9sG), MIDL 2018
 
@@ -148,10 +154,7 @@ a repo sharing Bayesian Neural Network recent papers
 [7] [Sparse Bayesian Recurrent Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-23525-7_22), ECML PKDD 2015
 ## Incremental Learning
 [1] [BAYESIAN INCREMENTAL LEARNING FOR DEEP NEURAL NETWORKS](https://openreview.net/forum?id=ByZzFPJDG), ICLR 2018
-## Bayesian Optmization
-[1] [Learning Curve Prediction with Bayesian Neural Networks](https://openreview.net/forum?id=S11KBYclx), ICLR 2017
 
-[2] [Bayesian Optimization with Robust Bayesian Neural Networks](https://papers.nips.cc/paper/6117-bayesian-optimization-with-robust-bayesian-neural-networks), NIPS 2016
 ## GAN
 [1] [Bayesian GAN](https://arxiv.org/abs/1705.09558), NIPS 2017
 # Survey
