@@ -163,3 +163,15 @@ a repo sharing Bayesian Neural Network recent papers
 [2] [Advances in Variational Inference](https://arxiv.org/abs/1711.05597), arXiv 2017
 
 [3] [Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670), arXiv 2018
+
+# Thesis
+
+[1] [UNCERTAINTY IN DEEP LEARNING](http://www.cs.ox.ac.uk/people/yarin.gal/website/thesis/thesis.pdf), Yarin Gal 2016
+
+[2] [Approximate Inference: New Visions](http://yingzhenli.net/home/pdf/phd_thesis.pdf), Yingzhen Li 2018
+
+[3] [Variational Inference & Deep Learning: A new Synthesis](https://dare.uva.nl/search?identifier=8e55e07f-e4be-458f-a929-2f9bc2d169e8), D.P. Kingma 2017 
+
+[4] [Bayesian Convolutional Neural Network](https://github.com/kumar-shridhar/Master-Thesis-BayesianCNN), Shridhar Kumar 2018
+
+[5] [BAYESIAN LEARNING FOR NEURAL NETWORKS](http://www.cs.toronto.edu/~radford/bnn.book.html), Radford M. Neal 1995
