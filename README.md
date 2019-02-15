@@ -58,7 +58,7 @@ a repo sharing Bayesian Neural Network recent papers
 
 [5] [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407), UAI 2018
 
-[6][Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474), NIPS 2017
+[6] [Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles](https://arxiv.org/abs/1612.01474), NIPS 2017
 
 ## Particle Optimization
 [1] [Function Space Particle Optimization for Bayesian Neural Networks](https://openreview.net/forum?id=BkgtDsCcKQ), ICLR 2019
@@ -161,3 +161,5 @@ a repo sharing Bayesian Neural Network recent papers
 [1] [Towards Bayesian Deep Learning A Survey](https://arxiv.org/abs/1604.01662), arXiv 2016
 
 [2] [Advances in Variational Inference](https://arxiv.org/abs/1711.05597), arXiv 2017
+
+[3] [Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670), arXiv 2018
