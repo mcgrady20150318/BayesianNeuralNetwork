@@ -34,6 +34,12 @@ a repo sharing Bayesian Neural Network recent papers
 
 [16] [Practical Variational Inference for Neural Networks](https://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks), NIPS 2011
 
+[17] [Mixed Variational Inference](https://arxiv.org/abs/1901.04791), arXiv 2019
+
+[18] [Radial and Directional Posteriors for Bayesian Neural Networks](https://arxiv.org/abs/1902.02603), arXiv 2019
+
+[19] [Unbiased Implicit Variational Inference](https://arxiv.org/abs/1808.02078), arXiv 2019
+
 ## Markov Chain Monte Carlo
 [1] [Meta-Learning For Stochastic Gradient MCMC](https://openreview.net/forum?id=HkeoOo09YX), ICLR 2019
 
@@ -46,6 +52,8 @@ a repo sharing Bayesian Neural Network recent papers
 [5] [Stochastic Gradient Hamiltonian Monte Carlo](https://arxiv.org/abs/1402.4102), ICML 2014
 
 [6] [Bayesian learning via stochastic gradient langevin dynamics](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf), ICML 2011
+
+[7] [Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning](https://arxiv.org/abs/1902.03932), arXiv 2019
 
 ## Ensembling Sampling (ES)
 [1] [Uncertainty in Neural Networks: Bayesian Ensembling](https://arxiv.org/abs/1810.05546), arXiv 2019
@@ -64,6 +72,9 @@ a repo sharing Bayesian Neural Network recent papers
 [1] [Function Space Particle Optimization for Bayesian Neural Networks](https://openreview.net/forum?id=BkgtDsCcKQ), ICLR 2019
 
 [2] [A Unified Particle-Optimization Framework for Scalable Bayesian Sampling](https://arxiv.org/abs/1805.11659), UAI 2018
+
+[3] [Bayesian posterior approximation via greedy particle optimization](https://arxiv.org/abs/1805.07912), arXiv 2019
+
 ## Laplace Approximation
 [1] [Online Structured Laplace Approximations For Overcoming Catastrophic Forgetting](https://arxiv.org/abs/1805.07810), arXiv 2018
 
@@ -108,6 +119,9 @@ a repo sharing Bayesian Neural Network recent papers
 [2] [Sufficient Conditions for Robustness to Adversarial Examples: a Theoretical and Empirical Study with Bayesian Neural Networks](https://openreview.net/forum?id=B1eZRiC9YX), ICLR 2019
 
 [3] [Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network](https://openreview.net/forum?id=rk4Qso0cKm), ICLR 2019
+
+[4] [Predictive Uncertainty Quantification with Compound Density Networks](https://arxiv.org/abs/1902.01080), arXiv 2019
+
 ## Bayesian Optmization
 [1] [Learning Curve Prediction with Bayesian Neural Networks](https://openreview.net/forum?id=S11KBYclx), ICLR 2017
 
@@ -138,6 +152,7 @@ a repo sharing Bayesian Neural Network recent papers
 [3] [VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674), arXiv 2017
 
 [4] [Learning and Policy Search in Stochastic Dynamical Systems with Bayesian Neural Networks](https://openreview.net/forum?id=H1fl8S9ee), ICLR 2017
+
 ## Recurrent/Convolutional Neural Networks
 [1] [Bayesian Recurrent Neural Networks](https://arxiv.org/abs/1704.02798), arXiv 2018
 
@@ -152,11 +167,17 @@ a repo sharing Bayesian Neural Network recent papers
 [6] [BAYESIAN CONVOLUTIONAL NEURAL NETWORKS WITH BERNOULLI APPROXIMATE VARIATIONAL INFERENCE](https://arxiv.org/abs/1506.02158), ICLR 2016
 
 [7] [Sparse Bayesian Recurrent Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-23525-7_22), ECML PKDD 2015
+
 ## Incremental Learning
 [1] [BAYESIAN INCREMENTAL LEARNING FOR DEEP NEURAL NETWORKS](https://openreview.net/forum?id=ByZzFPJDG), ICLR 2018
 
 ## GAN
 [1] [Bayesian GAN](https://arxiv.org/abs/1705.09558), NIPS 2017
+
+## Computational Fluid Dynamics
+
+[1] [Quantifying model form uncertainty in Reynolds-averaged turbulence models with Bayesian deep neural networks](https://arxiv.org/abs/1807.02901), arXiv 2019
+
 # Survey
 [1] [Towards Bayesian Deep Learning A Survey](https://arxiv.org/abs/1604.01662), arXiv 2016
 
@@ -170,8 +191,12 @@ a repo sharing Bayesian Neural Network recent papers
 
 [2] [Approximate Inference: New Visions](http://yingzhenli.net/home/pdf/phd_thesis.pdf), Yingzhen Li 2018
 
-[3] [Variational Inference & Deep Learning: A new Synthesis](https://dare.uva.nl/search?identifier=8e55e07f-e4be-458f-a929-2f9bc2d169e8), D.P. Kingma 2017 
+[3] [Towards Better Representations with Deep/Bayes Learning](http://chunyuan.li/doc/PhD_research_cli.pdf), Chunyuan Li 2018 (slide)
 
-[4] [Bayesian Convolutional Neural Network](https://github.com/kumar-shridhar/Master-Thesis-BayesianCNN), Shridhar Kumar 2018
+[4] [Variational Inference & Deep Learning: A new Synthesis](https://dare.uva.nl/search?identifier=8e55e07f-e4be-458f-a929-2f9bc2d169e8), D.P. Kingma 2017 
 
-[5] [BAYESIAN LEARNING FOR NEURAL NETWORKS](http://www.cs.toronto.edu/~radford/bnn.book.html), Radford M. Neal 1995
+[5] [Bayesian Convolutional Neural Network](https://github.com/kumar-shridhar/Master-Thesis-BayesianCNN), Shridhar Kumar 2018
+
+[6] [BAYESIAN LEARNING FOR NEURAL NETWORKS](http://www.cs.toronto.edu/~radford/bnn.book.html), Radford M. Neal 1995
+
+
