@@ -55,6 +55,12 @@ a repo sharing Bayesian Neural Network recent papers
 
 [7] [Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning](https://arxiv.org/abs/1902.03932), arXiv 2019
 
+[8] [Communication-Efficient Stochastic Gradient MCMC for Neural Networks](http://chunyuan.li/papers/aaai_2019_distributed.pdf), AAAI 2019
+
+[9] [Stochastic Gradient MCMC with Stale Gradients](http://people.ee.duke.edu/~lcarin/Changyou_nips_2016.pdf), NIPS 2016
+
+[10] [Bridging the Gap between Stochastic Gradient MCMC and Stochastic Optimization](http://people.ee.duke.edu/~lcarin/Santa_aistats16.pdf), AISTATS 2016
+
 ## Ensembling Sampling (ES)
 [1] [Uncertainty in Neural Networks: Bayesian Ensembling](https://arxiv.org/abs/1810.05546), arXiv 2019
 
@@ -87,6 +93,7 @@ a repo sharing Bayesian Neural Network recent papers
 [1] [Practical Bayesian Learning of Neural Networks via Adaptive Subgradient Methods](https://arxiv.org/abs/1811.03679),  Under Review AISTATS 2019
 
 [2] [Learning Structured Weight Uncertainty in Bayesian Neural Networks](http://proceedings.mlr.press/v54/sun17b.html), AISTATS 2017
+
 # Theory
 ## Gaussian Process
 [1] [Bayesian Deep Convolutional Networks with Many Channels are Gaussian Processes ](https://openreview.net/forum?id=B1g30j0qF7), ICLR 2019
@@ -167,6 +174,8 @@ a repo sharing Bayesian Neural Network recent papers
 [6] [BAYESIAN CONVOLUTIONAL NEURAL NETWORKS WITH BERNOULLI APPROXIMATE VARIATIONAL INFERENCE](https://arxiv.org/abs/1506.02158), ICLR 2016
 
 [7] [Sparse Bayesian Recurrent Neural Networks](https://link.springer.com/chapter/10.1007/978-3-319-23525-7_22), ECML PKDD 2015
+
+[8] [Learning Weight Uncertainty with SG-MCMC for Shape Classification](http://people.duke.edu/~cl319/doc/papers/dbnn_shape_cvpr.pdf), CVPR 2016
 
 ## Incremental Learning
 [1] [BAYESIAN INCREMENTAL LEARNING FOR DEEP NEURAL NETWORKS](https://openreview.net/forum?id=ByZzFPJDG), ICLR 2018
