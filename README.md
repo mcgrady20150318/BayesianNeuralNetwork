@@ -65,6 +65,8 @@ a repo sharing Bayesian Neural Network recent papers
 
 [10] [Bridging the Gap between Stochastic Gradient MCMC and Stochastic Optimization](http://people.ee.duke.edu/~lcarin/Santa_aistats16.pdf), AISTATS 2016
 
+[11] [Markov Chain Monte Carlo and Variational Inference: Bridging the Gap](http://proceedings.mlr.press/v37/salimans15.pdf), ICML 2015
+
 ## Ensembling Sampling (ES)
 [1] [Uncertainty in Neural Networks: Bayesian Ensembling](https://arxiv.org/abs/1810.05546), arXiv 2019
 
