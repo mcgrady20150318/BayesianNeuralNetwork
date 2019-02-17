@@ -40,6 +40,10 @@ a repo sharing Bayesian Neural Network recent papers
 
 [19] [Unbiased Implicit Variational Inference](https://arxiv.org/abs/1808.02078), arXiv 2019
 
+[20] [Semi-implicit variational inference](https://arxiv.org/abs/1805.11183), ICML 2018
+
+[21] [Doubly Semi-Implicit Variational Inference](https://arxiv.org/abs/1810.02789), arXiv 2018
+
 ## Markov Chain Monte Carlo
 [1] [Meta-Learning For Stochastic Gradient MCMC](https://openreview.net/forum?id=HkeoOo09YX), ICLR 2019
 
