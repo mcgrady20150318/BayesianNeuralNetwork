@@ -214,4 +214,8 @@ a repo sharing Bayesian Neural Network recent papers
 
 [6] [BAYESIAN LEARNING FOR NEURAL NETWORKS](http://www.cs.toronto.edu/~radford/bnn.book.html), Radford M. Neal 1995
 
+[7] [Stochastic Gradient MCMC: Algorithms and Applications](https://escholarship.org/content/qt4k8039zm/qt4k8039zm.pdf), Sungjin Ahn 2015
+
+[8] [Large-Scale Bayesian Computation Using Stochastic Gradient Markov Chain Monte Carlo](http://59.80.44.99/eprints.lancs.ac.uk/131012/1/2019JackBakerPhD.pdf), Jack Baker 2018
+
 
