@@ -44,6 +44,12 @@ a repo sharing Bayesian Neural Network recent papers
 
 [21] [Doubly Semi-Implicit Variational Inference](https://arxiv.org/abs/1810.02789), arXiv 2018
 
+[22] [Automated Variational Inference in Probabilistic Programming](https://arxiv.org/abs/1301.1299), arXiv 2013
+
+[23] [Black Box Variational Inference](https://arxiv.org/abs/1401.0118), arXiv 2014
+
+[24] [Stochastic Variational Inference](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf), JMLR 2013
+
 ## Markov Chain Monte Carlo
 [1] [Meta-Learning For Stochastic Gradient MCMC](https://openreview.net/forum?id=HkeoOo09YX), ICLR 2019
 
