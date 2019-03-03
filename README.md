@@ -268,3 +268,8 @@ a repo sharing Bayesian Neural Network recent papers
 
 [20] [Sungjin Ahn](http://www.sungjinahn.com/)
 
+# Events 
+
+[1] [NIPS Bayesian Deep Learning Workshop]http://bayesiandeeplearning.org/ (2016, 2017, 2018)
+
+[2] [NIPS Symposium on Advances in Approximate Bayesian Inference](http://approximateinference.org/) (2014 - 2018)]
