@@ -226,4 +226,45 @@ a repo sharing Bayesian Neural Network recent papers
 
 [8] [Large-Scale Bayesian Computation Using Stochastic Gradient Markov Chain Monte Carlo](http://59.80.44.99/eprints.lancs.ac.uk/131012/1/2019JackBakerPhD.pdf), Jack Baker 2018
 
+# Researcher
+
+[1] [Max Welling](https://staff.fnwi.uva.nl/m.welling/)
+
+[2] [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/)
+
+[3] [Radford M. Neal](https://www.cs.toronto.edu/~radford/homepage.html)
+
+[4] [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/index.html)
+
+[5] [Ryan P. Adams](http://www.cs.princeton.edu/~rpa/)
+
+[6] [David M. Blei](http://www.cs.columbia.edu/~blei/)
+
+[7] [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
+
+[8] [Lawrence Carin](http://people.ee.duke.edu/~lcarin/)
+
+[9] [Andrew Gordon Wilson](https://people.orie.cornell.edu/andrew/)
+
+[10] [Roger Grosse](http://www.cs.toronto.edu/~rgrosse/)
+
+[11] [Yarin Gal](http://www.cs.ox.ac.uk/people/yarin.gal/website/)
+
+[12] [Yingzhen Li](http://yingzhenli.net/home/en/)
+
+[13] [Yutian Chen](http://yutianchen.com/)
+
+[14] [Christos Louizos](https://christoslouizos.wordpress.com/)
+
+[15] [Charles Blundell](http://www.gatsby.ucl.ac.uk/~ucgtcbl/index.html)
+
+[16] [Shengyang sun](http://www.cs.toronto.edu/~ssy/) 
+
+[17] [Jiaxin Shi](http://jiaxins.me/)
+
+[18] [Chunyuan Li](http://chunyuan.li/)
+
+[19] [Mingyuan Zhou](https://mingyuanzhou.github.io/)
+
+[20] [Sungjin Ahn](http://www.sungjinahn.com/)
 
