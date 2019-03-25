@@ -52,6 +52,8 @@ a repo sharing Bayesian Neural Network recent papers
 
 [25] [Weight Uncertainty in Neural Networks](https://arxiv.org/pdf/1505.05424.pdf), ICML 2015
 
+[26] [Functional Variational Bayesian Neural Networks](https://arxiv.org/abs/1903.05779)
+
 ## Markov Chain Monte Carlo
 [1] [Meta-Learning For Stochastic Gradient MCMC](https://openreview.net/forum?id=HkeoOo09YX), ICLR 2019
 
@@ -133,6 +135,13 @@ a repo sharing Bayesian Neural Network recent papers
 [2] [Bayesian neural networks increasingly sparsify their units with depth](https://arxiv.org/abs/1810.05193), arXiv 2018
 
 [3] [Accelerated First-order Methods on the Wasserstein Space for Bayesian Inference](https://arxiv.org/abs/1807.01750), arXiv 2018
+
+## Others
+
+[1] [Statistical Guarantees for the Robustness of Bayesian Neural Networks](https://arxiv.org/abs/1903.01980), arXiv 2019
+
+[2] [Performance Measurement for Deep Bayesian Neural Network](https://arxiv.org/abs/1903.08674)
+
 # Applications
 ## Adversarial Defense
 [1] [Understanding Measures of Uncertainty for Adversarial Example Detection](https://arxiv.org/abs/1803.08533), UAI 2018
@@ -173,6 +182,10 @@ a repo sharing Bayesian Neural Network recent papers
 [3] [VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674), arXiv 2017
 
 [4] [Learning and Policy Search in Stochastic Dynamical Systems with Bayesian Neural Networks](https://openreview.net/forum?id=H1fl8S9ee), ICLR 2017
+
+[5] [Uncertainty Aware Learning from Demonstrations in Multiple Contexts using Bayesian Neural Networks](https://arxiv.org/abs/1903.05697)
+
+
 
 ## Recurrent/Convolutional Neural Networks
 [1] [Bayesian Recurrent Neural Networks](https://arxiv.org/abs/1704.02798), arXiv 2018
