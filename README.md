@@ -77,6 +77,8 @@ a repo sharing Bayesian Neural Network recent papers
 
 [11] [Markov Chain Monte Carlo and Variational Inference: Bridging the Gap](http://proceedings.mlr.press/v37/salimans15.pdf), ICML 2015
 
+[12] [CPSG-MCMC: Clustering-Based Preprocessing method for Stochastic Gradient MCMC](http://proceedings.mlr.press/v54/fu17a.html),  AISTATS 2017
+
 ## Ensembling Sampling (ES)
 [1] [Uncertainty in Neural Networks: Bayesian Ensembling](https://arxiv.org/abs/1810.05546), arXiv 2019
 
