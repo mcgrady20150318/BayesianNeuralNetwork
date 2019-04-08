@@ -283,6 +283,10 @@ a repo sharing Bayesian Neural Network recent papers
 
 [20] [Sungjin Ahn](http://www.sungjinahn.com/)
 
+[21] [Yian Ma](https://sites.google.com/view/yianma)
+
+[22] [Emily Fox](https://homes.cs.washington.edu/~ebfox/)
+
 # Events 
 
 [1] [NIPS Bayesian Deep Learning Workshop](http://bayesiandeeplearning.org/) (2016, 2017, 2018)
