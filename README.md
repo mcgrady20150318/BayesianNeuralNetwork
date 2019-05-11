@@ -73,11 +73,19 @@ a repo sharing Bayesian Neural Network recent papers
 
 [9] [Stochastic Gradient MCMC with Stale Gradients](http://people.ee.duke.edu/~lcarin/Changyou_nips_2016.pdf), NIPS 2016
 
-[10] [Bridging the Gap between Stochastic Gradient MCMC and Stochastic Optimization](http://people.ee.duke.edu/~lcarin/Santa_aistats16.pdf), AISTATS 2016
+[10] [Markov Chain Monte Carlo and Variational Inference: Bridging the Gap](http://proceedings.mlr.press/v37/salimans15.pdf), ICML 2015
 
-[11] [Markov Chain Monte Carlo and Variational Inference: Bridging the Gap](http://proceedings.mlr.press/v37/salimans15.pdf), ICML 2015
+[11] [CPSG-MCMC: Clustering-Based Preprocessing method for Stochastic Gradient MCMC](http://proceedings.mlr.press/v54/fu17a.html),  AISTATS 2017
 
-[12] [CPSG-MCMC: Clustering-Based Preprocessing method for Stochastic Gradient MCMC](http://proceedings.mlr.press/v54/fu17a.html),  AISTATS 2017
+## MCMC + VI 
+
+[1] [Bridging the Gap between Stochastic Gradient MCMC and Stochastic Optimization](http://people.ee.duke.edu/~lcarin/Santa_aistats16.pdf), AISTATS 2016
+
+[2] [Auxiliary Variational MCMC](https://openreview.net/pdf?id=r1NJqsRctX), ICLR 2019
+
+[3] [Variational MCMC](https://arxiv.org/abs/1301.2266), UAI 2011
+
+[4] [Variational Hamiltonian Monte Carlo via Score Matching](https://projecteuclid.org/euclid.ba/1500948232), 2018
 
 ## Ensembling Sampling (ES)
 [1] [Uncertainty in Neural Networks: Bayesian Ensembling](https://arxiv.org/abs/1810.05546), arXiv 2019
