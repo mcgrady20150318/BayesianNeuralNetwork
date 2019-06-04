@@ -299,6 +299,8 @@ a repo sharing Bayesian Neural Network recent papers
 
 [22] [Emily Fox](https://homes.cs.washington.edu/~ebfox/)
 
+[23] [Qiang Liu](https://www.cs.utexas.edu/~lqiang/)
+
 # Events 
 
 [1] [NIPS Bayesian Deep Learning Workshop](http://bayesiandeeplearning.org/) (2016, 2017, 2018)
