@@ -195,8 +195,6 @@ a repo sharing Bayesian Neural Network recent papers
 
 [5] [Uncertainty Aware Learning from Demonstrations in Multiple Contexts using Bayesian Neural Networks](https://arxiv.org/abs/1903.05697)
 
-
-
 ## Recurrent/Convolutional Neural Networks
 [1] [Bayesian Recurrent Neural Networks](https://arxiv.org/abs/1704.02798), arXiv 2018
 
@@ -219,6 +217,12 @@ a repo sharing Bayesian Neural Network recent papers
 
 ## GAN
 [1] [Bayesian GAN](https://arxiv.org/abs/1705.09558), NIPS 2017
+
+## ODE 
+[1] [ODE2VAE: Deep generative second order ODEs with Bayesian neural networks](https://arxiv.org/abs/1905.10994), arXiv 2019
+
+## Interpretable AI
+[1] [Interpretable Outcome Prediction with Sparse Bayesian Neural Networks in Intensive Care](https://arxiv.org/abs/1905.02599), arXiv 2019
 
 ## Computational Fluid Dynamics
 
