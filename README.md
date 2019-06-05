@@ -195,6 +195,10 @@ a repo sharing Bayesian Neural Network recent papers
 
 [5] [Uncertainty Aware Learning from Demonstrations in Multiple Contexts using Bayesian Neural Networks](https://arxiv.org/abs/1903.05697)
 
+[6] [Stein Variational Policy Gradient](http://auai.org/uai2017/proceedings/papers/239.pdf), UAI 2018
+
+[7] [Variational Inference for Policy Gradient](https://arxiv.org/pdf/1802.07833.pdf), arXiv 2018
+
 ## Recurrent/Convolutional Neural Networks
 [1] [Bayesian Recurrent Neural Networks](https://arxiv.org/abs/1704.02798), arXiv 2018
 
