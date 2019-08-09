@@ -305,6 +305,8 @@ a repo sharing Bayesian Neural Network recent papers
 
 [23] [Qiang Liu](https://www.cs.utexas.edu/~lqiang/)
 
+[24] [eric nalisnick](http://people.ds.cam.ac.uk/etn22/)
+
 # Events 
 
 [1] [NIPS Bayesian Deep Learning Workshop](http://bayesiandeeplearning.org/) (2016, 2017, 2018)
